@@ -4,6 +4,8 @@ title: Blog
 permalink: /blog/
 ---
 
+[About Me](/) | [Portfolio](/portfolio/) | [Blog](/blog/)
+
 # Blog
 
 Welcome to my thoughts and notes.
