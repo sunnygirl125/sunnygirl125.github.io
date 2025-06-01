@@ -1,9 +1,10 @@
-[About Me](/) | [Portfolio](/portfolio/) | [Blog](/blog/)
 ---
 layout: default
 title: Portfolio
 permalink: /portfolio/
 ---
+
+[About Me](/) | [Portfolio](/portfolio/) | [Blog](/blog/)
 
 # Product & Design Work
 
