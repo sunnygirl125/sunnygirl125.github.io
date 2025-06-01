@@ -1,1 +1,11 @@
-Site settings
+title: Jackie Sun
+description: Emerging Product Manager & Designer
+theme: jekyll-theme-minimal
+markdown: kramdown
+
+# Add navigation manually
+plugins:
+  - jekyll-feed
+
+# Optional
+url: "https://sunnygirl125.github.io"
