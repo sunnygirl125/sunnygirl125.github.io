@@ -1,3 +1,5 @@
+[About Me](/) | [Portfolio](/portfolio/) | [Blog](/blog/)
+
 ---
 layout: default
 title: About Me
