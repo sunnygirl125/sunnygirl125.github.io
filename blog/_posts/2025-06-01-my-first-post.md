@@ -1,9 +1,8 @@
+[About Me](/) | [Portfolio](/portfolio/) | [Blog](/blog/)
 ---
 layout: post
 title: "Why I’m Building a Personal Site"
 ---
-
-[About Me](/) | [Portfolio](/portfolio/) | [Blog](/blog/)
 
 Date: 6/1/2025
 
